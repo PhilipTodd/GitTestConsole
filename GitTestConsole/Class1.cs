@@ -10,5 +10,6 @@ namespace GitTestConsole
     {
         string foo;
         string foo2;
+        string foo3;
     }
 }
