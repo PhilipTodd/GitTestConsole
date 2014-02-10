@@ -8,5 +8,6 @@ namespace GitTestConsole
 {
     class Class1
     {
+        string foo;
     }
 }
