@@ -9,5 +9,6 @@ namespace GitTestConsole
     class Class1
     {
         string foo;
+        string foo2;
     }
 }
