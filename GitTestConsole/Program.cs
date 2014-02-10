@@ -13,6 +13,7 @@ namespace GitTestConsole
             //a change
             Console.ReadLine();
             Console.Write("foo");
+            Console.Write("foo");
         }
     }
 }
